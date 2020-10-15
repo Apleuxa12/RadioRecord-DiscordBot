@@ -1,5 +1,6 @@
 # RadioRecord-DiscordBot
 Discord Bot for translating Radio Record
+/n
 Используемые Python-библиотеки:
   discord,
   asyncio,
