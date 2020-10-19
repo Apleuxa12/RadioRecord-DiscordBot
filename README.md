@@ -4,5 +4,6 @@ Discord Bot for translating Radio Record\
   discord,\
   asyncio,\
   python-ffmpeg,\
-  requests.\
+  requests,\
+  BeautifulSoup. \
 Для проигрывания радио использовалась программа FFmpeg (её надо устанавливать отдельно).
